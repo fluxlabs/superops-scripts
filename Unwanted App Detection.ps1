@@ -1,8 +1,8 @@
 Import-Module $SuperOpsModule
 
 <#
-# This script detects the applications and notes them in the custom field.
-# Create custom field
+This script detects the applications and notes them in the custom field.
+Create custom field
 #>
 
 $AppListField = "Potential Unwanted Software"

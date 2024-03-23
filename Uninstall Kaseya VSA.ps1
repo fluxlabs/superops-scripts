@@ -6,7 +6,7 @@ You must provide secure variables to this script as seen in the Required Variabl
 #>
 
 ##### Required Variables #####
-# Could be variable
+# Could be Runtime or PlaceHolder Variable
 
 $GroupId = "GROUP-ID-HERE"
 
